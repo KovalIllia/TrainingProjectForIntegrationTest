@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a0949246_002Dcf2e_002D480f_002Dbdf2_002Db264c4a29b2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckStatus_SendRequest_ShouldReturnOk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4A17520-4017-4A70-8A23-69A81A23141B::net5.0::DeliveryServiceApi.IntegrationTests.DeliveryControllerTests.CheckStatus_SendRequest_ShouldReturnOk&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4A17520-4017-4A70-8A23-69A81A23141B::net5.0::DeliveryServiceApi.IntegrationTests.DeliveryControllerTests.SendOrder_FreeCourierAvailable_ShouldReturnNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4A17520-4017-4A70-8A23-69A81A23141B::net5.0::DeliveryServiceApi.IntegrationTests.DeliveryControllerTests.GetOrdersCount_SendRequest_ShouldReturnActualOrdersCount&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
